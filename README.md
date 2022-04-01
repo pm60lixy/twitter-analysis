@@ -19,8 +19,7 @@ Im  Ordner [Sentiment Analysis](Sentiment%20Analysis) finden Sie unsere Sentimen
 
 ### Topic Modeling 
 
-Im  Ordner [Topic Modeling](Topic%20Modeling) finden Sie die einzelen Jupyter Notebook Files der einzelnen Parteien, sowie einen File der die Tweets aller Parteien insgesamt betrachtet.
-
+Im  Ordner [Topic Modeling](Topic%20Modeling) finden Sie die einzelen Jupyter Notebook Files der einzelnen Parteien.
 ### Grafiken
 
 Im  Ordner [results](results) finden Sie die Grafiken die innerhalb der Jupyter Notebook Files ausgegeben werden. 
